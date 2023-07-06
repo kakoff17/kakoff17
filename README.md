@@ -131,7 +131,7 @@
 
 <div style="margin-top:10px" align="center">  
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/carlos-ponce-diez/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="mailto:carlosponcediez@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
